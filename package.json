@@ -1,6 +1,6 @@
 {
   "name": "electron-wix-msi-ttonway",
-  "version": "5.0.0",
+  "version": "5.1.0",
   "description": "Creates an MSI installer for your Electron app",
   "license": "MIT",
   "repository": "https://github.com/ttonway/electron-wix-msi",
@@ -23,6 +23,7 @@
   },
   "dependencies": {
     "debug": "^4.3.4",
+    "exe-icon-extractor": "^1.0.8",
     "fs-extra": "^10.0.1",
     "klaw": "^4.0.1",
     "lodash": "^4.17.21",
