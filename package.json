@@ -1,13 +1,12 @@
 {
-  "name": "electron-wix-msi",
+  "name": "electron-wix-msi-ttonway",
   "version": "5.0.0",
   "description": "Creates an MSI installer for your Electron app",
   "license": "MIT",
-  "repository": "https://github.com/felixrieseberg/electron-wix-msi",
+  "repository": "https://github.com/ttonway/electron-wix-msi",
   "author": {
-    "name": "Felix Rieseberg",
-    "email": "felix@felixrieseberg.com",
-    "url": "https://www.felixrieseberg.com"
+    "name": "ttonway",
+    "email": "ttonway@163.com"
   },
   "keywords": [
     "wix",
